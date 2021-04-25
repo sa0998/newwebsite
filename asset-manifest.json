@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.ca9ad840.chunk.css",
+    "main.js": "/reactwebsite/static/js/main.5e6a9d97.chunk.js",
+    "main.js.map": "/reactwebsite/static/js/main.5e6a9d97.chunk.js.map",
+    "runtime-main.js": "/reactwebsite/static/js/runtime-main.7c272dde.js",
+    "runtime-main.js.map": "/reactwebsite/static/js/runtime-main.7c272dde.js.map",
+    "static/css/2.74c02967.chunk.css": "/reactwebsite/static/css/2.74c02967.chunk.css",
+    "static/js/2.1346950b.chunk.js": "/reactwebsite/static/js/2.1346950b.chunk.js",
+    "static/js/2.1346950b.chunk.js.map": "/reactwebsite/static/js/2.1346950b.chunk.js.map",
+    "index.html": "/reactwebsite/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/reactwebsite/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.ca9ad840.chunk.css.map": "/reactwebsite/static/css/main.ca9ad840.chunk.css.map",
+    "static/js/2.1346950b.chunk.js.LICENSE.txt": "/reactwebsite/static/js/2.1346950b.chunk.js.LICENSE.txt",
+    "static/media/Rocket-Man.a5824412.svg": "/reactwebsite/static/media/Rocket-Man.a5824412.svg",
+    "static/media/custom-pc.fa1cd598.jpg": "/reactwebsite/static/media/custom-pc.fa1cd598.jpg",
+    "static/media/lap-1.096b7904.jpg": "/reactwebsite/static/media/lap-1.096b7904.jpg",
+    "static/media/lap-2.16e91a5b.jpg": "/reactwebsite/static/media/lap-2.16e91a5b.jpg",
+    "static/media/lap-3.15022f00.jpg": "/reactwebsite/static/media/lap-3.15022f00.jpg",
+    "static/media/lap-4.d5dfd144.jpg": "/reactwebsite/static/media/lap-4.d5dfd144.jpg",
+    "static/media/lap-5.064ee1b5.jpg": "/reactwebsite/static/media/lap-5.064ee1b5.jpg",
+    "static/media/lap-6.baeded80.jpg": "/reactwebsite/static/media/lap-6.baeded80.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c272dde.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.1346950b.chunk.js",
+    "static/css/main.ca9ad840.chunk.css",
+    "static/js/main.5e6a9d97.chunk.js"
+  ]
+}
